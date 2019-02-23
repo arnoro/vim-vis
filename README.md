@@ -1,3 +1,8 @@
+# Mirror of the vis vim plugin by Charles E. Campbell (aka Dr. Chip)
+
+This is an unofficial GitHub mirror. For the original and up-to-date version
+please refer to the official website:
+
 http://www.drchip.org/astronaut/vim/index.html#VIS
 ```
 *vis.txt*	The Visual Block Tool				Sep 07, 2016
