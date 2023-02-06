@@ -93,9 +93,9 @@ Copyright: (c) 2004-2016 by Charles E. Campbell	*vis-copyright*
 	The "S" command in visual mode:
 >
 		ex. select region via V, v, or ctrl-v
-		    :S pattern
+		    :VS pattern
 <
-	    The ":S pattern" will appear as ":'<,'>S pattern".  This
+	    The ":VS pattern" will appear as ":'<,'>VS pattern".  This
 	    command will move the cursor to the next instance of the
 	    pattern, restricted to the visually selected block.
 
